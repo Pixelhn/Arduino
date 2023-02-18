@@ -6,7 +6,7 @@
 #define WIFI_SSID "CMTDS_lhn"
 #define WIFI_PASSWORD "lhn95278900"
 
-#define MQTT_HOST IPAddress(192, 168, 1, 106)
+#define MQTT_HOST IPAddress(192, 168, 0, 100)
 #define MQTT_PORT 1883
 #define MQTT_CLIENT_ID "esp8266_1"
 
