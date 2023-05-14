@@ -1,5 +1,5 @@
 build_cache:
-  compilation_count_since_last_purge: 2
+  compilation_count_since_last_purge: 5
 installation:
   id: daa5e203-2242-42bc-b990-ffd0a5d5a17c
   secret: 9e57eb55-af59-47e7-a7a6-1bd022353224
